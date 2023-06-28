@@ -43,11 +43,43 @@
 .cust-h1 {
   color: #fff;
   font-size: 64px;
-  font-weight: 600;
-  line-height: 72px;
+  font-weight: 700;
+  line-height: 1.2;
 }
 .cust-h1 span {
   display: block;
+  font-size: 88px;
   color: #52d1fa;
   font-weight: 700;
+  line-height: 1;
+}
+
+@media screen and (min-width: 1020px) {
+  .first-screen__content--mod {
+    padding: 145px 0 135px;
+  }
+}
+@media (max-width: 1024px) {
+  .cust-h1 {
+    font-size: 64px;
+  }
+  .cust-h1 span {
+    font-size: 88px;
+  }
+}
+@media (max-width: 768px) {
+  .cust-h1 {
+    font-size: 40px;
+  }
+  .cust-h1 span {
+    font-size: 88px;
+  }
+}
+@media (max-width: 500px) {
+  .cust-h1 {
+    font-size: 24px;
+  }
+  .cust-h1 span {
+    font-size: 40px;
+  }
 }

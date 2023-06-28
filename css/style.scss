@@ -15,7 +15,7 @@
 
   font-display: swap;
   src: url("../local/templates/main/css/SourceSansPro-Light.woff2") format("woff2"),
-  url("../local/templates/main/css/SourceSansPro-Light.woff") format("woff");
+    url("../local/templates/main/css/SourceSansPro-Light.woff") format("woff");
 }
 
 @font-face {
@@ -25,7 +25,7 @@
 
   font-display: swap;
   src: url("../local/templates/main/css/SourceSansPro-Regular.woff2") format("woff2"),
-  url("../local/templates/main/css/SourceSansPro-Regular.woff") format("woff");
+    url("../local/templates/main/css/SourceSansPro-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -35,7 +35,7 @@
 
   font-display: swap;
   src: url("../local/templates/main/css/SourceSansPro-Regular.woff2") format("woff2"),
-  url("../local/templates/main/css/SourceSansPro-Regular.woff") format("woff");
+    url("../local/templates/main/css/SourceSansPro-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -45,7 +45,7 @@
 
   font-display: swap;
   src: url("../local/templates/main/css/SourceSansPro-SemiBold.woff2") format("woff2"),
-  url("../local/templates/main/css/SourceSansPro-SemiBold.woff") format("woff");
+    url("../local/templates/main/css/SourceSansPro-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -55,18 +55,53 @@
 
   font-display: swap;
   src: url("../local/templates/main/css/rouble.woff2") format("woff2"),
-  url("../local/templates/main/css/rouble.woff") format("woff");
+    url("../local/templates/main/css/rouble.woff") format("woff");
 }
 
 // то что выше - не надо экспортировать на боевой домен!
 .cust-h1 {
   color: #fff;
   font-size: 64px;
-  font-weight: 600;
-  line-height: 72px;
+  font-weight: 700;
+  line-height: 1.2;
   span {
     display: block;
+    font-size: 88px;
     color: #52d1fa;
     font-weight: 700;
+    line-height: 1;
+  }
+}
+
+@media screen and (min-width: 1020px) {
+  .first-screen__content--mod {
+    padding: 145px 0 135px;
+}
+}
+
+@media (max-width: 1024px) {
+  .cust-h1 {
+    font-size: 64px;
+    span {
+      font-size: 88px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .cust-h1 {
+    font-size: 40px;
+    span {
+      font-size: 88px;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .cust-h1 {
+    font-size: 24px;
+    span {
+      font-size: 40px;
+    }
   }
 }
