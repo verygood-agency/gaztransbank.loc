@@ -268,6 +268,35 @@
   }
 }
 
+.conditions-receipt {
+  padding: 65px 0;
+}
+
+.conditions-receipt {
+  &__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li {
+      padding: 24px 0;
+      color: var(--text, #343434);
+      font-size: 18px;
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 1fr 1fr;
+      font-weight: 600;
+
+      strong {
+        font-weight: 400;
+      }
+
+      &:not(:first-of-type) {
+        border-top: 1px solid #d9d9d9;
+      }
+    }
+  }
+}
+
 @media (max-width: 1020px) {
   .credit-calc__container--mod {
     margin-top: 18px;
@@ -361,7 +390,7 @@
     position: relative;
     &:after {
       display: block;
-      content: '';
+      content: "";
       width: 100%;
       height: 1px;
       background-color: #636363;
@@ -389,5 +418,9 @@
     margin-left: 0;
     max-width: 100%;
     width: 100%;
+  }
+  .conditions-receipt__list li {
+    font-size: 15px;
+    gap: 8px;
   }
 }
