@@ -243,6 +243,15 @@
   border-top: 1px solid #d9d9d9;
 }
 
+.loans-advantages__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
 @media (max-width: 1020px) {
   .credit-calc__container--mod {
     margin-top: 18px;
