@@ -1,44 +1,72 @@
 @font-face {
-  font-family: "MyriadProSemibold";
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-SemiboldIt.eot");
+  src: local("Myriad Pro Semibold Italic"), local("MyriadPro-SemiboldIt"), url("MyriadPro-SemiboldIt.eot?#iefix") format("embedded-opentype"), url("MyriadPro-SemiboldIt.woff2") format("woff2"), url("MyriadPro-SemiboldIt.woff") format("woff"), url("MyriadPro-SemiboldIt.ttf") format("truetype");
   font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-  src: url("../local/templates/main/css/MyriadPro-Semibold.woff2") format("woff2"), url("../local/templates/main/css/MyriadPro-Semibold.woff") format("woff");
+  font-style: italic;
 }
 @font-face {
-  font-family: "MyriadPro";
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-Black.eot");
+  src: local("Myriad Pro Black"), local("MyriadPro-Black"), url("MyriadPro-Black.eot?#iefix") format("embedded-opentype"), url("MyriadPro-Black.woff2") format("woff2"), url("MyriadPro-Black.woff") format("woff"), url("MyriadPro-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-Semibold.eot");
+  src: local("Myriad Pro Semibold"), local("MyriadPro-Semibold"), url("MyriadPro-Semibold.eot?#iefix") format("embedded-opentype"), url("MyriadPro-Semibold.woff2") format("woff2"), url("MyriadPro-Semibold.woff") format("woff"), url("MyriadPro-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-BlackIt.eot");
+  src: local("Myriad Pro Black Italic"), local("MyriadPro-BlackIt"), url("MyriadPro-BlackIt.eot?#iefix") format("embedded-opentype"), url("MyriadPro-BlackIt.woff2") format("woff2"), url("MyriadPro-BlackIt.woff") format("woff"), url("MyriadPro-BlackIt.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-Regular.eot");
+  src: local("Myriad Pro Regular"), local("MyriadPro-Regular"), url("MyriadPro-Regular.eot?#iefix") format("embedded-opentype"), url("MyriadPro-Regular.woff2") format("woff2"), url("MyriadPro-Regular.woff") format("woff"), url("MyriadPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-Bold.eot");
+  src: local("Myriad Pro Bold"), local("MyriadPro-Bold"), url("MyriadPro-Bold.eot?#iefix") format("embedded-opentype"), url("MyriadPro-Bold.woff2") format("woff2"), url("MyriadPro-Bold.woff") format("woff"), url("MyriadPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-BoldIt.eot");
+  src: local("Myriad Pro Bold Italic"), local("MyriadPro-BoldIt"), url("MyriadPro-BoldIt.eot?#iefix") format("embedded-opentype"), url("MyriadPro-BoldIt.woff2") format("woff2"), url("MyriadPro-BoldIt.woff") format("woff"), url("MyriadPro-BoldIt.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-LightIt.eot");
+  src: local("Myriad Pro Light Italic"), local("MyriadPro-LightIt"), url("MyriadPro-LightIt.eot?#iefix") format("embedded-opentype"), url("MyriadPro-LightIt.woff2") format("woff2"), url("MyriadPro-LightIt.woff") format("woff"), url("MyriadPro-LightIt.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-It.eot");
+  src: local("Myriad Pro Italic"), local("MyriadPro-It"), url("MyriadPro-It.eot?#iefix") format("embedded-opentype"), url("MyriadPro-It.woff2") format("woff2"), url("MyriadPro-It.woff") format("woff"), url("MyriadPro-It.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("MyriadPro-Light.eot");
+  src: local("Myriad Pro Light"), local("MyriadPro-Light"), url("MyriadPro-Light.eot?#iefix") format("embedded-opentype"), url("MyriadPro-Light.woff2") format("woff2"), url("MyriadPro-Light.woff") format("woff"), url("MyriadPro-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
-  font-display: swap;
-  src: url("../local/templates/main/css/SourceSansPro-Light.woff2") format("woff2"), url("../local/templates/main/css/SourceSansPro-Light.woff") format("woff");
-}
-@font-face {
-  font-family: "MyriadPro";
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  src: url("../local/templates/main/css/SourceSansPro-Regular.woff2") format("woff2"), url("../local/templates/main/css/SourceSansPro-Regular.woff") format("woff");
-}
-@font-face {
-  font-family: "MyriadPro";
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-  src: url("../local/templates/main/css/SourceSansPro-Regular.woff2") format("woff2"), url("../local/templates/main/css/SourceSansPro-Regular.woff") format("woff");
-}
-@font-face {
-  font-family: "MyriadPro";
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-  src: url("../local/templates/main/css/SourceSansPro-SemiBold.woff2") format("woff2"), url("../local/templates/main/css/SourceSansPro-SemiBold.woff") format("woff");
-}
-@font-face {
-  font-family: "ruble";
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  src: url("../local/templates/main/css/rouble.woff2") format("woff2"), url("../local/templates/main/css/rouble.woff") format("woff");
 }
 .cust-h1 {
   color: #fff;
@@ -59,7 +87,7 @@
   padding: 0;
   margin: 0;
   display: flex;
-  max-width: 500px;
+  max-width: 100%;
 }
 .hero-details__list {
   list-style: none;
@@ -69,7 +97,16 @@
 .hero-details__list:not(:first-of-type) {
   padding-left: 20px;
   position: relative;
-  border-left: 1px solid rgba(255, 255, 255, 0.231372549);
+}
+.hero-details__list:not(:first-of-type):after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 1px;
+  height: 80%;
+  background-color: rgba(255, 255, 255, 0.231372549);
+  left: 0;
+  top: 10%;
 }
 .hero-details__list:not(:last-of-type) {
   padding-right: 55px;
@@ -82,10 +119,125 @@
 }
 .hero-details__list li:first-of-type {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 600;
   opacity: 1;
 }
 
+.credit-calculator {
+  padding: 58px 0 64px;
+}
+.credit-calculator .credit-form__calc {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.custom-btn {
+  border: none;
+}
+
+.reset-btn {
+  margin-left: auto;
+  margin-right: 0;
+  max-width: max-content;
+  display: block;
+}
+
+.credit-calc__container--mod {
+  margin: 0;
+  padding: 0 17px;
+  padding-left: 0;
+  margin-top: 40px;
+  display: grid !important;
+  gap: 30px;
+  grid-template-columns: 1fr 130px;
+  align-items: flex-start;
+}
+
+.credit-calc__custom-details .consent__text {
+  margin: 0;
+  font-size: 16px;
+}
+
+.custom-checkbox-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  margin-bottom: 11px;
+  display: flex;
+  align-items: flex-start;
+}
+.custom-checkbox-list li {
+  position: relative;
+  margin-left: 24px;
+  height: initial;
+  line-height: 1;
+  display: flex;
+}
+.custom-checkbox-list li.mod {
+  margin-left: 0;
+}
+.custom-checkbox-list input {
+  opacity: 0;
+  position: relative;
+}
+.custom-checkbox-list label {
+  font-family: inherit;
+  position: relative;
+  padding-left: 33px;
+  color: var(--text, #343434);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1;
+  padding-right: 20px;
+  display: flex;
+  align-items: center;
+}
+.custom-checkbox-list .mod label {
+  border-right: 1px solid #636363;
+}
+.custom-checkbox-list input + label::before {
+  position: absolute;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  content: "";
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.custom-checkbox-list input[type=radio] + label::before {
+  background-image: url(../img/icons/radio-off.svg);
+}
+.custom-checkbox-list input[type=checkbox] + label::before {
+  background-image: url(../img/icons/check-off.svg);
+}
+.custom-checkbox-list input[type=radio]:checked + label::before {
+  background-image: url(../img/icons/radio-on.svg);
+}
+.custom-checkbox-list input[type=checkbox]:checked + label::before {
+  background-image: url(../img/icons/check-on.svg);
+}
+
+@media (max-width: 1020px) {
+  .credit-calc__container--mod {
+    margin-top: 18px;
+    gap: 12px;
+    align-items: flex-start;
+    grid-template-columns: 1fr;
+  }
+  .custom-checkbox-list {
+    justify-content: space-between;
+  }
+  .custom-checkbox-list li:last-of-type label {
+    padding-right: 0;
+  }
+  .credit-calc__container--mod {
+    padding-right: 0;
+  }
+  .custom-checkbox-list label {
+    font-size: 15px;
+  }
+}
 @media screen and (min-width: 1020px) {
   .first-screen__content--mod {
     padding: 145px 0 135px;
@@ -100,8 +252,13 @@
   }
 }
 @media (max-width: 900px) {
+  .cust-h1 {
+    font-size: 40px;
+  }
   .hero-details {
     flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 360px;
   }
   .hero-details__list {
     padding-right: initial !important;
@@ -111,13 +268,16 @@
     padding: 12px 0 14px;
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 2fr 1fr;
   }
   .hero-details__list li {
     font-size: 16px !important;
   }
   .hero-details__list li:last-child {
     font-weight: 300;
+  }
+  .hero-details__list:not(:first-of-type):after {
+    display: none;
   }
 }
 @media (max-width: 767px) {
@@ -130,6 +290,35 @@
   .hero-details {
     max-width: 100%;
   }
+  .custom-checkbox-list {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .custom-checkbox-list li {
+    margin-left: 0;
+  }
+  .custom-checkbox-list label {
+    padding-top: 20px;
+  }
+  .custom-checkbox-list .mod {
+    position: relative;
+  }
+  .custom-checkbox-list .mod:after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: #636363;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  .custom-checkbox-list .mod label {
+    border: none;
+    padding-top: 0;
+    padding-bottom: 20px;
+  }
 }
 @media (max-width: 500px) {
   .cust-h1 {
@@ -137,5 +326,10 @@
   }
   .cust-h1 span {
     font-size: 40px;
+  }
+  .credit-calculator .reset-btn {
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
   }
 }
