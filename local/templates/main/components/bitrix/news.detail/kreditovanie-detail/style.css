@@ -1,0 +1,6 @@
+.preview-kredit.content:not(.toggle-container) ul li{
+    margin-bottom: 15px;
+}
+.preview-kredit.content ul {
+    margin-block-end: 0px;
+}

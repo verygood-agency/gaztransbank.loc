@@ -1,0 +1,94 @@
+/**/
+.comision{
+    background: #07559c;
+    position: relative;
+    color: #fff;
+    padding: 95px 55px 55px;
+}
+.comision__title{
+    font-size: 2rem;
+    display: block;
+}
+.comision__price{
+    font-size: 4.2rem;
+    font-weight: bold;
+    display: block;
+}
+.comision__img{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.comision__info{
+    min-height:15rem;
+}
+.comision__bottom{
+    display: block;
+    font-size: 1.2rem;
+
+}
+.comision__btn{
+    margin-bottom: 2.4rem;
+}
+.checkbox-boxing .checkbox__label{
+    padding-left:35px;
+    cursor: pointer;
+    user-select: none;
+}
+.checkbox-boxing{
+    position: relative;
+}
+.checkbox-boxing .checkbox__label:before{
+    content: '';
+    width: 18px;
+    height: 18px;
+    border: 1px solid #07559c;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.checkbox-boxing .checkbox__input:checked+.checkbox__label{
+    opacity: 1;
+}
+.checkbox-boxing .checkbox__label:after{
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #07559c;
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    opacity: 0;
+    transition: all .3s ease;
+    margin: auto;
+}
+.comision__content{
+    position: relative;
+    z-index: 4;
+}
+.commision-type{
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+}
+.commision-type .checkbox{
+    margin-top: 5px;
+   margin-right:4rem;
+    margin-bottom: 2rem;
+}
+@media(max-width:760px){
+    .comision {
+        overflow: hidden;
+        padding: 47px 20px 55px;
+    }
+    .comision__price{
+        font-size: 3.2rem;
+    }
+    .comision__info {
+    min-height: 12rem;
+}
+    .comision__img{
+       opacity: .7;
+       right: -32%;
+    }
+}

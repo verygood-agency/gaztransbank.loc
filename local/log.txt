@@ -1,0 +1,32 @@
+Host: gaztransbank.ru:443
+Date: 2022-12-06 23:42:30
+Module: security
+Module: security; Class: CSecurityAntiVirus; Function: AddEventLog; File: /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php; Line: 494 MySql Query Error: insert into b_sec_virus (ID, TIMESTAMP_X, SITE_ID, INFO) values ('48364ab661da717341e8f820a422c261', now(), 's1', 'YToxMTp7czo4OiJTRVZFUklUWSI7czo4OiJTRUNVUklUWSI7czoxMzoiQVVESVRfVFlQRV9JRCI7czoxNDoiU0VDVVJJVFlfVklSVVMiO3M6OToiTU9EVUxFX0lEIjtzOjg6InNlY3VyaXR5IjtzOjc6IklURU1fSUQiO3M6NzoiVU5LTk9XTiI7czoxMToiUkVNT1RFX0FERFIiO3M6MTM6IjE4Ni4yLjE2MC4xODciO3M6MTA6IlVTRVJfQUdFTlQiO3M6MTExOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA4LjAuMC4wIFNhZmFyaS81MzcuMzYiO3M6MTE6IlJFUVVFU1RfVVJJIjtzOjIzOiIvP3drb3V6Yj13eWptdW1kd3J3d3l6eiI7czo3OiJTSVRFX0lEIjtzOjI6InMxIjtzOjc6IlVTRVJfSUQiO2I6MDtzOjg6IkdVRVNUX0lEIjtiOjA7czoxMToiREVTQ1JJUFRJT04iO3M6MjA2OiI9PVBHbG1jbUZ0WlNCemNtTTlJbWgwZEhCek9pOHZkM2QzTG1kdmIyZHNaWFJoWjIxaGJtRm5aWEl1WTI5dEwyNXpMbWgwTGk0dVZ6VTRRa2dpT3dvZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdhR1ZwWjJoMFBTSXdJaUIzYVdSMGFEMGlNQ0lnYzNSNWJHVTlJbVJwYzNCc1lYazZibTl1WlR0MmFYTnBZbWxzYVhSNU9taHBaR1JsYmlJK1BDOXBabkpoYldVKyI7fQ==') [Bitrix\Main\DB\SqlQueryException: Mysql query error: (1213) Deadlock found when trying to get lock; try restarting transaction in /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/lib/db/mysqliconnection.php:146
+Stack trace:
+#0 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/lib/db/connection.php(327): Bitrix\Main\DB\MysqliConnection->queryInternal()
+#1 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/mysql/database.php(118): Bitrix\Main\DB\Connection->query()
+#2 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/mysql/database.php(134): CSecurityDB::Query()
+#3 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php(494): CSecurityDB::QueryBind()
+#4 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php(606): CSecurityAntiVirus->dolog()
+#5 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php(199): CSecurityAntiVirus->Analyze()
+#6 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/classes/general/module.php(480): CSecurityAntiVirus::OnEndBufferContent()
+#7 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/classes/general/main.php(3183): ExecuteModuleEventEx()
+#8 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/classes/general/main.php(3130): CAllMain->EndBufferContent()
+#9 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/include/epilog_after.php(46): CAllMain->EndBufferContentMan()
+#10 /home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/include/epilog.php(3): require('/home/bitrix/ex...')
+#11 /home/bitrix/ext_www/gaztransbank.ru/bitrix/footer.php(4): require_once('/home/bitrix/ex...')
+#12 /home/bitrix/ext_www/gaztransbank.ru/index.php(421): require('/home/bitrix/ex...')
+#13 {main}]
+#0: CSecurityDB::Query
+	/home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/mysql/database.php:134
+#1: CSecurityDB::QueryBind
+	/home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php:494
+#2: CSecurityAntiVirus->dolog
+	/home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php:606
+#3: CSecurityAntiVirus->Analyze
+	/home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/security/classes/general/antivirus.php:199
+#4: CSecurityAntiVirus::OnEndBufferContent
+	/home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/classes/general/module.php:480
+#5: ExecuteModuleEventEx
+	/home/bitrix/ext_www/gaztransbank.ru/bitrix/modules/main/classes/general/main.php:3183
+----------

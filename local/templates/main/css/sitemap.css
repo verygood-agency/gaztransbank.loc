@@ -1,0 +1,24 @@
+/**/
+.sitemap__title{
+    display: block;
+    font-size:2.4rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.sitemap__links a{
+    display: block;
+    transition: all .3s ease;
+    margin-bottom: 1.5rem;
+}
+.sitemap__section{
+    padding-bottom: 4rem;
+}
+.sitemap__section:not(:first-child){
+    padding-top: 6rem;
+}
+.sitemap__section:not(:last-child){
+    border-bottom: 1px solid #343434;
+}
+.sitemap__links a:hover{
+    color: #07559c;
+}

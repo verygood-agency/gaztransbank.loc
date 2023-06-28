@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><items iblockUid="content:toggle-w"><item><field name="ACTIVE"><value>Y</value></field><field name="ACTIVE_FROM"/><field name="ACTIVE_TO"/><field name="SORT"><value>100</value></field><field name="NAME"><value>Рекомендации по безопасности в системе «iBank 2»</value></field><field name="PREVIEW_PICTURE"/><field name="PREVIEW_TEXT"><value>Мы заботимся о безопасности проведенных вами операций в системе iBank2 и настоятельно рекомендуем соблюдать следующие правила:</value></field><field name="PREVIEW_TEXT_TYPE"><value>text</value></field><field name="DETAIL_PICTURE"/><field name="DETAIL_TEXT"><value>&amp;lt;ul&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                            Хранить ключи подписи исключительно на USB-токенах (защищенные хранилища) &amp;lt;/li&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                            Используйте ip-фильтрацию для привязки вашего IP-адреса к системе iBank2&#13;
+                        &amp;lt;/li&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                            Соблюдайте и поддерживайте в актуальном состоянии свои внутренние правила для работы в системе «iBank 2» и работы с секретными ключами ЭЦП&#13;
+                        &amp;lt;/li&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                            Соблюдайте правила безопасности при работе в Интернете: не посещайте подозрительные сайты, не устанавливайте программы из непроверенных источников, не открывайте файлы от неизвестных отправителей&#13;
+                        &amp;lt;/li&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                            Производите подключение USB-токены к компьютеру только на время работы с iBank2, по завершении сеанса работы отключайте USB-токены&#13;
+                        &amp;lt;/li&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                           Используйте в работе лицензионное системное и прикладное программное обеспечение&#13;
+                        &amp;lt;/li&amp;gt;&#13;
+                        &amp;lt;li&amp;gt;&#13;
+                           Используйте в работе и своевременно обновляйте антивирусное программное обеспечение, межсетевой экран (Firewall), и другие средства защиты &#13;
+                        &amp;lt;/li&amp;gt;&#13;
+                    &amp;lt;/ul&amp;gt;</value></field><field name="DETAIL_TEXT_TYPE"><value>html</value></field><field name="CODE"><value>rekomendatsii-po-bezopasnosti-v-sisteme-ibank-2</value></field><field name="TAGS"/><field name="XML_ID"><value>30</value></field><field name="IBLOCK_SECTION"><value>Страница &quot;Банк-клиент&quot;|1</value></field></item></items>

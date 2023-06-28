@@ -1,0 +1,97 @@
+.deposit-modal {
+  text-align: left;
+  &__container {
+    position: relative;
+    background-color: #fff;
+    padding: 32px;
+    @media screen and (min-width: 530px) {
+      padding: 36px 48px 40px;
+    }
+  }
+  &__close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    width: 26px;
+    height: 26px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    transform: rotate(45deg);
+    @media screen and (min-width: 530px) {
+      top: 20px;
+      right: 20px;
+    }
+    &:before,
+    &:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+      background-color: #07559c;
+    }
+    &:before {
+      width: 24px;
+      height: 2px;
+    }
+    &:after {
+      width: 2px;
+      height: 24px;
+    }
+  }
+  &__content {
+
+  }
+  &__title {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 700;
+    margin: 0 0 24px;
+  }
+  &__buttons {
+    display: flex;
+    flex-direction: column;
+  }
+  &__button {
+    &:not(:last-child) {
+      margin-bottom: 20px;
+    }
+    &--color-red {
+      .deposit-modal__button-link {
+        background-color: #B9120C;
+        &:hover {
+          background-color: #07559D;
+        }
+      }
+    }
+    &--color-blue {
+      .deposit-modal__button-link {
+        background-color: #07559D;
+        &:hover {
+          background-color: #B9120C;
+        }
+      }
+    }
+  }
+  &__button-link {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    line-height: 29px;
+    text-align: center;
+    color: #fff;
+    padding: 9px 16px;
+    transition: background-color .3s ease;
+  }
+  &__button-description {
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+    color: rgba(#343434, .7);
+    margin-top: 6px;
+  }
+}

@@ -1,0 +1,76 @@
+.deposit-modal {
+  text-align: left; }
+.deposit-modal__container {
+  position: relative;
+  background-color: #fff;
+  padding: 32px; }
+@media screen and (min-width: 530px) {
+  .deposit-modal__container {
+    padding: 36px 48px 40px; } }
+.deposit-modal__close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  transform: rotate(45deg); }
+@media screen and (min-width: 530px) {
+  .deposit-modal__close-btn {
+    top: 20px;
+    right: 20px; } }
+.deposit-modal__close-btn:before, .deposit-modal__close-btn:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: #07559c; }
+.deposit-modal__close-btn:before {
+  width: 24px;
+  height: 2px; }
+.deposit-modal__close-btn:after {
+  width: 2px;
+  height: 24px; }
+.deposit-modal__title {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 700;
+  margin: 0 0 24px; }
+.deposit-modal__buttons {
+  display: flex;
+  flex-direction: column; }
+.deposit-modal__button:not(:last-child) {
+  margin-bottom: 20px; }
+.deposit-modal__button--color-red .deposit-modal__button-link {
+  background-color: #B9120C; }
+.deposit-modal__button--color-red .deposit-modal__button-link:hover {
+  background-color: #07559D; }
+.deposit-modal__button--color-blue .deposit-modal__button-link {
+  background-color: #07559D; }
+.deposit-modal__button--color-blue .deposit-modal__button-link:hover {
+  background-color: #B9120C; }
+.deposit-modal__button-link {
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  line-height: 29px;
+  text-align: center;
+  color: #fff;
+  padding: 9px 16px;
+  transition: background-color .3s ease; }
+.deposit-modal__button-description {
+  font-size: 16px;
+  line-height: 23px;
+  text-align: center;
+  color: rgba(52, 52, 52, 0.7);
+  margin-top: 6px; }
+
+.b-modal__dialog {
+  max-width: 613px;
+}

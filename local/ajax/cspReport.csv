@@ -1,0 +1,1215 @@
+csp-report:
+ date: 2022-07-13 16:34:48
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://duckduckgo.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-07-14 11:12:00
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-07-14 11:12:09
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-12 23:07:05
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://duckduckgo.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:42:52
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:42:52
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:43:01
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:43:01
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:43:07
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:43:07
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:43:28
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/potrebitelskiy-kredit-nalichnymi/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-23 07:43:28
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/potrebitelskiy-kredit-nalichnymi/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:23:47
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:23:47
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:24:07
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/o-banke/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:24:07
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/o-banke/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:24:31
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/o-banke/general/rukovodstvo/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:24:31
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/o-banke/general/rukovodstvo/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:24:53
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/biznesu/raskritie-informacii-reg-celey/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/general/rukovodstvo/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:24:53
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/biznesu/raskritie-informacii-reg-celey/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/general/rukovodstvo/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:25:15
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/biznesu/raskritie-informacii-reg-celey/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:25:15
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/biznesu/raskritie-informacii-reg-celey/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:28:43
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:28:43
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:28:52
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/potrebitelskiy-kredit-nalichnymi/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: upgrade-insecure-requests; default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; script-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://ff.kis.v2.scr.kaspersky-labs.com wss://ff.kis.v2.scr.kaspersky-labs.com; font-src * data: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-08-25 07:28:52
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/chastnym-litsam/kreditovanie/potrebitelskiy-kredit-nalichnymi/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/kreditovanie/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-19 16:52:48
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-19 16:52:52
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/o-banke/otdeleniya-i-bankomats/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-19 16:52:54
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-19 17:12:07
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-20 02:16:08
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-20 02:16:20
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/o-banke/otdeleniya-i-bankomats/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-10-20 14:53:41
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-11-29 14:42:24
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-11-29 14:46:27
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-11-30 13:11:54
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-11-30 13:23:37
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/bitrix/admin/index.php
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2022-12-21 13:36:59
+ blocked-uri: data
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: 
+ violated-directive: default-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri https://gaztransbank.ru/local/ajax/CSP.php
+ referrer: https://duckduckgo.com/
+ script-sample: 
+ status-code: 
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-17 18:29:25
+ blocked-uri: https://mc.yandex.ru/metrika/tag.js
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://yandex.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 12:40:59
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/ustavnyy-kapital/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 12:43:38
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/ustavnyy-kapital/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 17:16:39
+ blocked-uri: https://mc.yandex.ru/metrika/tag.js
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 200
+ source-file: https://gaztransbank.ru/
+ line-number: 3334
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 17:16:44
+ blocked-uri: https://mc.yandex.ru/metrika/tag.js
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 17:16:52
+ blocked-uri: https://mc.yandex.ru/metrika/tag.js
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/general/rukovodstvo/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 17:17:17
+ blocked-uri: https://mc.yandex.ru/metrika/tag.js
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/general/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/general/rukovodstvo/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-01-24 17:17:22
+ blocked-uri: https://mc.yandex.ru/metrika/tag.js
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/general/contacts/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/general/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-02-07 17:20:48
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/ustavnyy-kapital/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-02-15 19:42:33
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/chastnym-litsam/vklady/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-02-28 14:39:46
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: https://gaztransbank.ru/o-banke/
+ line-number: 1597
+ column-number: 
+
+csp-report:
+ date: 2023-02-28 14:39:55
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/general/rekvisits/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/o-banke/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-03-16 10:06:17
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.fr/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 5954
+ column-number: 23
+
+csp-report:
+ date: 2023-03-16 10:06:21
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.fr/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 5954
+ column-number: 23
+
+csp-report:
+ date: 2023-03-17 00:36:54
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.fr/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 5954
+ column-number: 23
+
+csp-report:
+ date: 2023-03-17 00:37:00
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 5954
+ column-number: 23
+
+csp-report:
+ date: 2023-03-20 04:15:01
+ blocked-uri: https://gaztransbank.ru/
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: frame-ancestors
+ violated-directive: frame-ancestors
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-03-26 17:45:59
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.startpage.com/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-03-26 17:46:28
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/feedback/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-03-26 17:48:18
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/policy/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/feedback/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-04-13 10:33:16
+ blocked-uri: https://gaztransbank.ru/
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: frame-ancestors
+ violated-directive: frame-ancestors
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://metrika.yandex.ru/stat-cdp/contacts?id=57270994
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-04-18 23:04:45
+ blocked-uri: https://gaztransbank.ru/
+ disposition: 
+ document-uri: https://gaztransbank.ru/
+ effective-directive: frame-ancestors
+ violated-directive: frame-ancestors
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: http://krasnodar.zoon.ru/redirect/?to=http%3A%2F%2Fwww.gaztransbank.ru&hash=fbb2a24ca055a2fadd925462213a5d32&from=58e2263540c08873708c56b6.5755&ext_site=ext_site&backurl=https%3A%2F%2Fkrasnodar.zoon.ru%2Fbanks%2Fbankomat_gaztransbank_na_ulitse_kalyaeva%2F
+ script-sample: 
+ status-code: 0
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-04-19 11:07:47
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://duckduckgo.com/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 46
+ column-number: 31
+
+csp-report:
+ date: 2023-04-19 11:07:54
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/chastnym-litsam/tarify-i-dokumenty/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 46
+ column-number: 31
+
+csp-report:
+ date: 2023-04-19 11:08:24
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/chastnym-litsam/vklady/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/tarify-i-dokumenty/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 46
+ column-number: 31
+
+csp-report:
+ date: 2023-04-19 11:09:03
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/vklady/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 46
+ column-number: 31
+
+csp-report:
+ date: 2023-04-19 11:09:06
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/chastnym-litsam/gtb-online/
+ effective-directive: style-src-elem
+ violated-directive: style-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 46
+ column-number: 31
+
+csp-report:
+ date: 2023-04-24 19:00:45
+ blocked-uri: https://gaztransbank.ru/
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: frame-ancestors
+ violated-directive: frame-ancestors
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-04-25 08:13:23
+ blocked-uri: https://gaztransbank.ru/
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: frame-ancestors
+ violated-directive: frame-ancestors
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-05-11 13:58:12
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/biznesu/ved/?bitrix_include_areas=Y
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-05-11 13:58:17
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/chastnym-litsam/perevods/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-05-11 13:58:21
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/chastnym-litsam/perevods/zolotaya-korona/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/chastnym-litsam/perevods/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-05-18 08:02:34
+ blocked-uri: data
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: media-src
+ violated-directive: media-src
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-05 16:12:28
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-05 16:12:28
+ blocked-uri: https://www.googletagmanager.com/gtag/js?id=G-V23BM495WM
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: 
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-05 16:13:32
+ blocked-uri: https://www.googletagmanager.com/gtag/js?id=G-V23BM495WM
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/general/contacts/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-05 16:13:32
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/o-banke/general/contacts/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src-elem * 'unsafe-inline' 'unsafe-eval'; font-src * data: *; img-src * data: * blob: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-13 17:35:39
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; script-src-elem * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; frame-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; font-src * data: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 200
+ source-file: https://gaztransbank.ru/
+ line-number: 3484
+ column-number: 
+
+csp-report:
+ date: 2023-06-13 17:35:39
+ blocked-uri: https://www.googletagmanager.com/gtag/js?id=G-V23BM495WM
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; script-src-elem * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; frame-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; font-src * data: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://www.google.com/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-13 17:35:45
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; script-src-elem * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; frame-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; font-src * data: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: https://gaztransbank.ru/
+ line-number: 3484
+ column-number: 
+
+csp-report:
+ date: 2023-06-13 17:35:45
+ blocked-uri: https://www.googletagmanager.com/gtag/js?id=G-V23BM495WM
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; script-src-elem * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; frame-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; font-src * data: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
+csp-report:
+ date: 2023-06-13 17:35:47
+ blocked-uri: https://www.googletagmanager.com/gtm.js?id=GTM-57W58BH
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; script-src-elem * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; frame-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; font-src * data: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: https://gaztransbank.ru/
+ line-number: 3115
+ column-number: 
+
+csp-report:
+ date: 2023-06-13 17:35:47
+ blocked-uri: https://www.googletagmanager.com/gtag/js?id=G-V23BM495WM
+ disposition: enforce
+ document-uri: https://gaztransbank.ru/
+ effective-directive: script-src-elem
+ violated-directive: script-src-elem
+ original-policy: default-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; script-src-elem * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; img-src * data: * blob: * https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; frame-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; style-src * 'unsafe-inline' 'unsafe-eval' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; font-src * data: *; frame-ancestors 'self'; report-uri /local/ajax/CSP.php
+ referrer: https://gaztransbank.ru/
+ script-sample: 
+ status-code: 200
+ source-file: 
+ line-number: 
+ column-number: 
+
