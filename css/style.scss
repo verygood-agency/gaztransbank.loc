@@ -228,7 +228,7 @@
     position: relative;
     padding-left: 33px;
     color: var(--text, #343434);
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     line-height: 1;
     padding-right: 20px;
@@ -264,7 +264,7 @@
 }
 
 .conditions-receipt {
-  padding: 65px 0;
+  padding: 65px 0 45px;
 
   &__list {
     list-style: none;
@@ -401,6 +401,13 @@
 
   .section__title {
     font-size: 32px;
+  }
+
+  .loans-advantages {
+    padding: 46px 0 50px;
+  }
+  .conditions-receipt {
+    padding: 45px 0 16px;
   }
 }
 
