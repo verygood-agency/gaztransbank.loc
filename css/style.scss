@@ -114,6 +114,10 @@
   }
 }
 
+.section__title {
+  font-size: 40px;
+}
+
 .hero-details {
   list-style: none;
   padding: 0;
@@ -162,22 +166,13 @@
 
 .credit-calculator {
   padding: 58px 0 64px;
+
   .credit-form__calc {
     border-bottom: none;
     padding-bottom: 0;
     margin-bottom: 0;
   }
-  // .credit-calc__info-wrapper {
-  // width: 100%;
-  // margin-bottom: 32px;
-  // margin-left: 0;
-  // margin-right: 0;
-  // }
 }
-// .custom-calc-info-container {
-//   margin-left: 15px;
-//   margin-right: 15px;
-// }
 
 .custom-btn {
   border: none;
@@ -270,9 +265,7 @@
 
 .conditions-receipt {
   padding: 65px 0;
-}
 
-.conditions-receipt {
   &__list {
     list-style: none;
     padding: 0;
@@ -298,6 +291,9 @@
 }
 
 .loans-advantages {
+  background-color: #e8eef6;
+  padding: 44px 0 66px;
+
   &__list {
     padding: 0;
     margin: 0;
@@ -305,7 +301,36 @@
     display: grid;
     gap: 30px;
     grid-template-columns: repeat(3, 1fr);
+
+    li {
+      background-color: #fff;
+      padding: 34px 32px 38px;
+      color: #5d5d5d;
+      font-size: 16px;
+
+      img {
+        width: 48px;
+        height: 40px;
+        display: block;
+        margin-bottom: 12px;
+      }
+      h3 {
+        display: block;
+        font-weight: 600;
+        margin: 0;
+        color: #343434;
+        font-size: 20px;
+        margin-bottom: 12px;
+      }
+      p {
+        margin: 0;
+      }
+    }
   }
+}
+
+.conditions__container--mod {
+  background-color: #f2f6fa;
 }
 
 @media (max-width: 1020px) {
@@ -327,15 +352,11 @@
   .custom-checkbox-list label {
     font-size: 15px;
   }
-}
 
-@media screen and (min-width: 1020px) {
   .first-screen__content--mod {
     padding: 145px 0 135px;
   }
-}
 
-@media (max-width: 1024px) {
   .cust-h1 {
     font-size: 64px;
     span {
@@ -373,6 +394,13 @@
   }
   .hero-details__list:not(:first-of-type):after {
     display: none;
+  }
+  .loans-advantages__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .section__title {
+    font-size: 32px;
   }
 }
 
@@ -415,6 +443,14 @@
     border: none;
     padding-top: 0;
     padding-bottom: 20px;
+  }
+}
+@media (max-width: 600px) {
+  .loans-advantages__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .section__title {
+    font-size: 24px;
   }
 }
 

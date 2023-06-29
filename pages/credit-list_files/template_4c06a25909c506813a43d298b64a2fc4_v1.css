@@ -13928,12 +13928,14 @@ body.compensate-for-scrollbar{overflow:hidden}.fancybox-active{height:auto}.fanc
     min-width: 100px;
 }
 .header__section {
-    font-family: 'MyriadProSemibold';
+  font-family: 'MyriadPro', 'Arial', 'Helvetica', sans-serif;
     font-size: 18px;
+    font-weight: 600;
 }
 .header-menu__link {
-    font-family: 'MyriadProSemibold';
+  font-family: 'MyriadPro', 'Arial', 'Helvetica', sans-serif;
     font-size: 16px;
+    font-weight: 600;
 }
 
 .cookie {

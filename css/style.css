@@ -82,6 +82,10 @@
   line-height: 1;
 }
 
+.section__title {
+  font-size: 40px;
+}
+
 .hero-details {
   list-style: none;
   padding: 0;
@@ -221,7 +225,6 @@
 .conditions-receipt {
   padding: 65px 0;
 }
-
 .conditions-receipt__list {
   list-style: none;
   padding: 0;
@@ -243,6 +246,10 @@
   border-top: 1px solid #d9d9d9;
 }
 
+.loans-advantages {
+  background-color: #e8eef6;
+  padding: 44px 0 66px;
+}
 .loans-advantages__list {
   padding: 0;
   margin: 0;
@@ -250,6 +257,33 @@
   display: grid;
   gap: 30px;
   grid-template-columns: repeat(3, 1fr);
+}
+.loans-advantages__list li {
+  background-color: #fff;
+  padding: 34px 32px 38px;
+  color: #5d5d5d;
+  font-size: 16px;
+}
+.loans-advantages__list li img {
+  width: 48px;
+  height: 40px;
+  display: block;
+  margin-bottom: 12px;
+}
+.loans-advantages__list li h3 {
+  display: block;
+  font-weight: 600;
+  margin: 0;
+  color: #343434;
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+.loans-advantages__list li p {
+  margin: 0;
+}
+
+.conditions__container--mod {
+  background-color: #f2f6fa;
 }
 
 @media (max-width: 1020px) {
@@ -271,13 +305,9 @@
   .custom-checkbox-list label {
     font-size: 15px;
   }
-}
-@media screen and (min-width: 1020px) {
   .first-screen__content--mod {
     padding: 145px 0 135px;
   }
-}
-@media (max-width: 1024px) {
   .cust-h1 {
     font-size: 64px;
   }
@@ -312,6 +342,12 @@
   }
   .hero-details__list:not(:first-of-type):after {
     display: none;
+  }
+  .loans-advantages__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .section__title {
+    font-size: 32px;
   }
 }
 @media (max-width: 767px) {
@@ -352,6 +388,14 @@
     border: none;
     padding-top: 0;
     padding-bottom: 20px;
+  }
+}
+@media (max-width: 600px) {
+  .loans-advantages__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .section__title {
+    font-size: 24px;
   }
 }
 @media (max-width: 500px) {

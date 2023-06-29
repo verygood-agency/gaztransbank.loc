@@ -881,24 +881,18 @@
   min-width: 100px;
 }
 
-@font-face {
-  font-family: 'MyriadProSemibold';
-  font-weight: 600;
-  font-style: normal;
 
-  font-display: swap;
-  src: url('MyriadPro-Semibold.woff2') format('woff2'),
-  url('MyriadPro-Semibold.woff') format('woff');
-}
 
 .header__section {
-  font-family: 'MyriadProSemibold';
+  font-family: 'MyriadPro', 'Arial', 'Helvetica', sans-serif;
   font-size: 18px;
+  font-weight: 600;
 }
 
 .header-menu__link {
-  font-family: 'MyriadProSemibold';
+  font-family: 'MyriadPro', 'Arial', 'Helvetica', sans-serif;
   font-size: 16px;
+  font-weight: 600;
 }
 
 .cookie {
